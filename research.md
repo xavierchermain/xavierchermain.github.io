@@ -73,8 +73,8 @@ Advisors: [Frédéric Claux](http://www.unilim.fr/pages_perso/frederic.claux/) a
 
 ![Our 2018 Visual Computer paper image]({{site.baseurl}}/data/img/Chermain2018AMicrofacet.png)
 
-[Published, view-only version](https://rdcu.be/baa11), [author version](https://drive.google.com/file/d/1JcfiksYqxI0XQ3CNV2E2gD4G2nGVf1Bb/view?usp=sharing)
-and [project page]({{site.baseurl}}/glints/)
+[Author version](https://drive.google.com/file/d/1JcfiksYqxI0XQ3CNV2E2gD4G2nGVf1Bb/view?usp=sharing), [project page]({{site.baseurl}}/glints/), [published, view-only version](https://rdcu.be/baa11), 
+and [video](https://drive.google.com/file/d/1fs3Y9WlUNfyRhGnf4pIJdtTumhN4XQPm/view?usp=sharing)
 
 [Visual Computer]: https://link.springer.com/journal/371
 
