@@ -27,7 +27,7 @@ permalink: /research/
 
 ![Our 2021 i3D paper]({{site.baseurl}}/data/img/i3D2021.png)
 
-[Author version]({{site.baseurl}}/data/pdf/Chermain2021RealTime.pdf), [project page]({{site.baseurl}}/glint_anti_aliasing/), [video](TODO), [supplementary material]({{site.baseurl}}/data/pdf/Chermain2021RealTimeSupplemental.pdf), [code](https://github.com/ASTex-ICube/aa_real_time_glint), [presentation on Youtube (with Q&A)](https://youtu.be/dwi5qJ6oPjE?t=4269) and [bibtex]({{site.baseurl}}/data/bibtex/Chermain2021RealTime.txt).
+[Author version]({{site.baseurl}}/data/pdf/Chermain2021RealTime.pdf), [project page]({{site.baseurl}}/glint_anti_aliasing/), [video](https://drive.google.com/file/d/1ibMFMDC_eYOp7E7moFwiC3G_bolYhkA1/view?usp=sharing), [supplementary material]({{site.baseurl}}/data/pdf/Chermain2021RealTimeSupplemental.pdf), [code](https://github.com/ASTex-ICube/aa_real_time_glint), [presentation on Youtube (with Q&A)](https://youtu.be/dwi5qJ6oPjE?t=4269) and [bibtex]({{site.baseurl}}/data/bibtex/Chermain2021RealTime.txt).
 
 ## 2020
 
@@ -35,7 +35,7 @@ permalink: /research/
 
 **Xavier Chermain**, [Basile Sauvage](https://igg.icube.unistra.fr/index.php/Basile_Sauvage), [Jean-Michel Dischler](https://dpt-info.u-strasbg.fr/~dischler/) and [Carsten Dachsbacher](https://cg.ivd.kit.edu/english/dachsbacher/)
 
-[Pacific Graphic 2020, CGF](https://pg2020.org/), DOI: [10.1111/cgf.14141](https://doi.org/10.1111/cgf.14141)
+[Pacific Graphic 2020, CGF](https://pg2021.org/), DOI: [10.1111/cgf.14141](https://doi.org/10.1111/cgf.14141)
 
 ![Our 2020 Pacific Graphic, CGF Issue, paper]({{site.baseurl}}/data/img/Chermain2020ProceduralTeaser.png)
 
@@ -51,7 +51,7 @@ Ph.D. Dissertation
 
 ![Teaser thesis]({{site.baseurl}}/data/img/Chermain2019Rendu.png)
 
-Advisors: [Frédéric Claux](http://www.unilim.fr/pages_perso/frederic.claux/) and [Stéphane Merillou](http://www.unilim.fr/pages_perso/stephane.merillou/). Defense date: 27 November 2019. Doctor of Philosophy in Computer Science of the University of Limoges, France. [Dissertation]({{site.baseurl}}/data/pdf/Chermain2019Rendu.pdf), in French.
+Advisors: [Frédéric Claux](http://www.unilim.fr/pages_perso/frederic.claux/) and [Stéphane Merillou](http://www.unilim.fr/pages_perso/stephane.merillou/). Defense date: 27 November 2019. Doctor of Philosophy in Computer Science of the University of Limoges, France. [Dissertation](https://drive.google.com/file/d/1i72HQVgKEBGAhmvtHJXeqkOGiZgEk3bH/view?usp=sharing), in French.
 
 ### [Glint Rendering based on a Multiple-Scattering Patch BRDF]({{site.baseurl}}/ms_glints/)
 
@@ -61,7 +61,7 @@ Advisors: [Frédéric Claux](http://www.unilim.fr/pages_perso/frederic.claux/) a
 
 ![Our 2019 EGSR, CGF Track paper]({{site.baseurl}}/data/img/Chermain2019Glint.png)
 
-[Post-peer-review, pre-copyedit version]({{site.baseurl}}/data/pdf/egsr_2019.pdf), [project page]({{site.baseurl}}/ms_glints/), [Video file]({{site.baseurl}}/data/avi/vid_egsr2019.mp4), [slides]({{site.baseurl}}/data/pdf/egsr_2019_slides.pdf) and [code]({{site.baseurl}}/data/code/egsr2019_pbrt_v3.zip)
+[Author version]({{site.baseurl}}/data/pdf/Chermain2019Glint.pdf), [project page]({{site.baseurl}}/ms_glints/), [video file](https://drive.google.com/file/d/1rso4I6UNYxjq5K5DA3WxUVIebYOU0A1L/view?usp=sharing), [slides](https://drive.google.com/file/d/1V4tLT3Y5PvddguqA0Zxpb3sfma8ILC2-/view?usp=sharing) and [code](https://drive.google.com/file/d/1NCz8GUDxhYkRkGnReBxNOZYNaftqE8Sn/view?usp=sharing)
 
 ## 2018
 
@@ -73,8 +73,7 @@ Advisors: [Frédéric Claux](http://www.unilim.fr/pages_perso/frederic.claux/) a
 
 ![Our 2018 Visual Computer paper image]({{site.baseurl}}/data/img/Chermain2018AMicrofacet.png)
 
-[Published, view-only version](https://rdcu.be/baa11), [Post-peer-review,
-pre-copyedit version]({{site.baseurl}}/data/pdf/revised_version.pdf)
+[Published, view-only version](https://rdcu.be/baa11), [author version](https://drive.google.com/file/d/1JcfiksYqxI0XQ3CNV2E2gD4G2nGVf1Bb/view?usp=sharing)
 and [project page]({{site.baseurl}}/glints/)
 
 [Visual Computer]: https://link.springer.com/journal/371
