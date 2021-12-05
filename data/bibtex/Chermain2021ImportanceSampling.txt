@@ -1,0 +1,6 @@
+@inproceedings{Chermain2021ImportanceSampling,
+author = {Chermain, Xavier and Sauvage, Basile and Dischler, Jean-Michel and Dachsbacher, Carsten},
+title = {{Importance Sampling of Glittering BSDFs based on Finite Mixture Distributions}},
+booktitle = {Proc.\ Eurographics Symposium on Rendering}},
+year = {2021}
+}
