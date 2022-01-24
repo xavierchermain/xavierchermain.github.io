@@ -4,4 +4,4 @@ title: CV
 permalink: /cv/
 ---
 
-[Download PDF](https://drive.google.com/file/d/10EYonV3vI1tcu22k7sXCkxHYazuaeg6L/view?usp=sharing)
+[Download PDF](https://drive.google.com/file/d/187GjHmF8RsBUm9L5k5yI2WZlMUDZwFdR/view?usp=sharing)
