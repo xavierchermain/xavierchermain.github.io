@@ -21,8 +21,8 @@
 title: Xavier Chermain's Page
 email: xavier.chermain@inria.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a postdoctoral researcher at INRIA Nancy, in the MFX team since 
-  December 2021.
+  I am a researcher at INRIA Nancy, in the MFX team since 
+  December 2022.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://xavierchermain.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 domain: xavierchermain.github.io
