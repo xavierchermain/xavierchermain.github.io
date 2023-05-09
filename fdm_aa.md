@@ -27,7 +27,7 @@ result quality. We demonstrate the effectiveness of our technique in conveying
 an anisotropic appearance on several challenging test cases, ranging from
 patterns to photographs reinterpreted as anisotropic appearances.
 
-# Ressources
+# Resources
 
 - [Article]({{site.baseurl}}/data/pdf/Chermain2023Orientable.pdf)
-- [Video](https://drive.google.com/file/d/1hUCbd5X0puIW42dTcMwv9M7uy6GOEz7_/view?usp=sharing)
+- [Supplemental Video](https://youtu.be/aUDzZrlRnNU)

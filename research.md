@@ -17,7 +17,7 @@ permalink: /research/
 
 ![Our SIGGRAPH 2023 teaser]({{site.baseurl}}/data/img/Chermain2023Teaser.png)
 
-[Article]({{site.baseurl}}/data/pdf/Chermain2023Orientable.pdf), and [Video](https://drive.google.com/file/d/1hUCbd5X0puIW42dTcMwv9M7uy6GOEz7_/view?usp=sharing)
+[Article]({{site.baseurl}}/data/pdf/Chermain2023Orientable.pdf), and [Supplemental Video](https://youtu.be/aUDzZrlRnNU)
 
 ## 2021
 
