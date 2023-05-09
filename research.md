@@ -7,6 +7,18 @@ permalink: /research/
 
 # Publications
 
+## 2023
+
+### [Orientable Dense Cyclic Infill for Anisotropic Appearance Fabrication]({{site.baseurl}}/fdm_aa/)
+
+**Xavier Chermain**, [Cédric Zanni](https://members.loria.fr/CZanni/), [Jonàs Martínez](https://sites.google.com/site/jonasmartinezbayona/), Pierre-Alexandre Hugron, and [Sylvain Lefebvre](https://www.antexel.com/sylefeb/research)
+
+[SIGGRAPH 2023](https://s2023.siggraph.org/), DOI: [10.1145/3592412](https://doi.org/10.1145/3592412)
+
+![Our SIGGRAPH 2023 teaser]({{site.baseurl}}/data/img/Chermain2023Teaser.png)
+
+[Article]({{site.baseurl}}/data/pdf/Chermain2023Orientable.pdf), and [Video](https://drive.google.com/file/d/1hUCbd5X0puIW42dTcMwv9M7uy6GOEz7_/view?usp=sharing)
+
 ## 2021
 
 ### [Importance Sampling of Glittering BSDFs based on Finite Mixture Distributions]({{site.baseurl}}/importance_sampling_glint/)
