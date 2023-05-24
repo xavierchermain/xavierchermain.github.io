@@ -3,6 +3,7 @@ layout: page
 title: Orientable Dense Cyclic Infill for Anisotropic Appearance Fabrication
 permalink: /fdm_aa/
 ---
+{% include math.html %}
 
 **Xavier Chermain**, [Cédric Zanni](https://members.loria.fr/CZanni/), [Jonàs Martínez](https://sites.google.com/site/jonasmartinezbayona/), Pierre-Alexandre Hugron, and [Sylvain Lefebvre](https://www.antexel.com/sylefeb/research)
 
@@ -31,3 +32,7 @@ patterns to photographs reinterpreted as anisotropic appearances.
 
 - [Article]({{site.baseurl}}/data/pdf/Chermain2023Orientable.pdf)
 - [Supplemental Video](https://youtu.be/aUDzZrlRnNU)
+
+# Updated for errata
+
+- 2023-05-24: Equation 7: Integration domain changed from $$\mathbb{R}$$ to $$\left[0, \frac{1}{f}\right]$$.
