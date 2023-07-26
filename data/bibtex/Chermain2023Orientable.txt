@@ -1,0 +1,10 @@
+@article{Chermain2023Orientable,
+author = {Chermain, Xavier and Zanni, C{\'e}dric and Mart{\'i}nez, Jon{\`a}s and Hugron, Pierre-Alexandre and Lefebvre, Sylvain},
+title = {Orientable Dense Cyclic Infill for Anisotropic Appearance Fabrication},
+year = {2023},
+volume = {42},
+number = {4},
+doi = {10.1145/3592412},
+journal = {ACM Trans. Graph. (Proc. SIGGRAPH)},
+numpages = {13},
+}

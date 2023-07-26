@@ -32,6 +32,8 @@ patterns to photographs reinterpreted as anisotropic appearances.
 
 - [Article]({{site.baseurl}}/data/pdf/Chermain2023Orientable.pdf)
 - [Supplemental Video](https://youtu.be/aUDzZrlRnNU)
+- [Code](https://github.com/mfx-inria/anisotropic_appearance_fabrication)
+- [BibTeX]({{site.baseurl}}/data/bibtex/Chermain2023Orientable.txt)
 
 # Updated for errata
 

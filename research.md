@@ -17,7 +17,7 @@ permalink: /research/
 
 ![Our SIGGRAPH 2023 teaser]({{site.baseurl}}/data/img/Chermain2023Teaser.png)
 
-[Article]({{site.baseurl}}/data/pdf/Chermain2023Orientable.pdf), and [Supplemental Video](https://youtu.be/aUDzZrlRnNU)
+[Project page](https://xavierchermain.github.io/fdm_aa/), [article]({{site.baseurl}}/data/pdf/Chermain2023Orientable.pdf), [supplemental Video](https://youtu.be/aUDzZrlRnNU), [code](https://github.com/mfx-inria/anisotropic_appearance_fabrication), and [BibTeX]({{site.baseurl}}/data/bibtex/Chermain2023Orientable.txt).
 
 ## 2021
 
