@@ -33,7 +33,9 @@ patterns to photographs reinterpreted as anisotropic appearances.
 - [Article]({{site.baseurl}}/data/pdf/Chermain2023Orientable.pdf)
 - [Supplemental Video](https://youtu.be/aUDzZrlRnNU)
 - [Code](https://github.com/mfx-inria/anisotropic_appearance_fabrication)
-- [Replicability Stamp](https://www.replicabilitystamp.org#https-github-com-mfx-inria-anisotropic-appearance-fabrication).
+- [Presentation + speaker notes](https://drive.google.com/file/d/18OoTWXBn98SmZHrDsus1_H7m-fMFy0eX/view?usp=sharing)
+- [Recorded presentation](https://dl.acm.org/doi/suppl/10.1145/3592412/suppl_file/papers_555_VOD.mp4)
+- [Replicability Stamp](https://www.replicabilitystamp.org#https-github-com-mfx-inria-anisotropic-appearance-fabrication)
 - [BibTeX]({{site.baseurl}}/data/bibtex/Chermain2023Orientable.txt)
 
 # Updated for errata

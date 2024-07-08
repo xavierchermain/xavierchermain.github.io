@@ -17,7 +17,7 @@ permalink: /research/
 
 ![Our SIGGRAPH 2023 teaser]({{site.baseurl}}/data/img/Chermain2023Teaser.png)
 
-[Project page](https://xavierchermain.github.io/fdm_aa/), [article]({{site.baseurl}}/data/pdf/Chermain2023Orientable.pdf), [supplemental Video](https://youtu.be/aUDzZrlRnNU), [code](https://github.com/mfx-inria/anisotropic_appearance_fabrication), [BibTeX]({{site.baseurl}}/data/bibtex/Chermain2023Orientable.txt), [Replicability Stamp](https://www.replicabilitystamp.org#https-github-com-mfx-inria-anisotropic-appearance-fabrication).
+[Project page](https://xavierchermain.github.io/fdm_aa/), [article]({{site.baseurl}}/data/pdf/Chermain2023Orientable.pdf), [supplemental Video](https://youtu.be/aUDzZrlRnNU), [code](https://github.com/mfx-inria/anisotropic_appearance_fabrication), [presentation + speaker notes](https://drive.google.com/file/d/18OoTWXBn98SmZHrDsus1_H7m-fMFy0eX/view?usp=sharing), [recorded presentation](https://dl.acm.org/doi/suppl/10.1145/3592412/suppl_file/papers_555_VOD.mp4), [bibTeX]({{site.baseurl}}/data/bibtex/Chermain2023Orientable.txt), [replicability Stamp](https://www.replicabilitystamp.org#https-github-com-mfx-inria-anisotropic-appearance-fabrication).
 
 ## 2021
 
