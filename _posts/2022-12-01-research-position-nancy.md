@@ -3,6 +3,7 @@ layout: post
 title:  "Beginning of my permanent research position at Inria Nancy"
 date:   2022-12-01 00:00:00 +0100
 categories: Posts
+published: false
 ---
 
 I am now a permanent researcher in the [MFX team](https://mfx.loria.fr/) of
