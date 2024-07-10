@@ -1,9 +1,10 @@
 @article{Chermain2020Procedural,
 author = {Chermain, Xavier and Sauvage, Basile and Dischler, Jean-Michel and Dachsbacher, Carsten},
 title = {{Procedural Physically-based BRDF for Real-Time Rendering of Glints}},
-journal = {Comput. Graph. Forum (Proc. Pacific Graphics)},
+journal = {Computer Graphics Forum (Proceedings of Pacific Graphics)},
 volume = {39},
 number = {7},
 year = {2020},
-pages = {243-253}
+pages = {243--253},
+doi = {10.1111/cgf.14141}
 }

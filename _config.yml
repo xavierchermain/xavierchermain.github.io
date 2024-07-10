@@ -36,7 +36,14 @@ plugins:
 
 header_pages:
   - cv.md
-  - research.md
+  - publications.html
+
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:name
+
+head_inline: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

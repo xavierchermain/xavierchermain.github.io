@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<div class="page">
+    <h1 class="mt-4 publication-title">{{ page.title }}</h1>
+    <div class="publication-authors">{{ page.authors }}</div>
+    <div class="publication-info">{{ page.journal }}, {{ page.year}}</div>
+    <div class="publication-teaser">
+        <img src="/data/img/{{ page.id_name }}_big.png" alt="project teaser" />
+    </div>
+    {{ content }}
+    <h2 id="downloads">Ressources</h2>
+    <p>
+        {% if page.dissertation %}
+        <a href="{{ page.dissertation }}"><i class="far fa-file-pdf"></i> Dissertation</a>&nbsp;&nbsp;
+        {% endif%}
+        {% if page.article %}
+        <a href="{{ page.article }}"><i class="far fa-file-pdf"></i> Article</a>&nbsp;&nbsp;
+        {% endif%}
+        {% if page.supplementary_document_1 %}
+        <a href="{{ page.supplementary_document_1 }}"><i class="far fa-file-pdf"></i> Supp. doc. 1</a>&nbsp;&nbsp;
+        {% endif%}
+        {% if page.supplementary_document_2 %}
+        <a href="{{ page.supplementary_document_2 }}"><i class="far fa-file-pdf"></i> Supp. doc. 2</a>&nbsp;&nbsp;
+        {% endif%}
+        {% if page.slides %}
+        <a href="{{ page.slides }}"><i class="far fa-file-pdf"></i> Slides</a>&nbsp;&nbsp;
+        {% endif%}
+        {% if page.presentation %}
+        <a href="{{ page.presentation }}"><i class="far fa-file-video"></i> Presentation </a>&nbsp;&nbsp;
+        {% endif%}
+        {% if page.supplementary_video %}
+        <a href="{{ page.supplementary_video }}"><i class="far fa-file-video"></i> Supp. video</a>&nbsp;&nbsp;
+        {% endif%}
+        {% if page.two_minute_papers %}
+        <a href="{{ page.two_minute_papers }}"><i class="far fa-file-video"></i> Two minute papers</a>&nbsp;&nbsp;
+        {% endif%}
+        {% if page.code %}
+        <a href="{{ page.code }}"><i class="far fa-file-code"></i> Code</a>&nbsp;&nbsp;
+        {% endif%}
+        {% if page.shadertoy %}
+        <a href="{{ page.shadertoy }}"><i class="far fa-file-code"></i> Shadertoy</a>&nbsp;&nbsp;
+        {% endif%}
+        {% if page.pbrt %}
+        <a href="{{ page.pbrt }}"><i class="far fa-file-code"></i> pbrt</a>&nbsp;&nbsp;
+        {% endif%}
+        {% if page.replicability %}
+        <a href="{{ page.replicability }}"><i class="fas fa-external-link-alt"></i> Replicability stamp</a>&nbsp;&nbsp;
+        {% endif%}
+        <a href="{{site.baseurl}}/data/bibtex/{{ page.id_name }}.txt"><i class="far fa-file-alt"></i> BibTex</a>&nbsp;&nbsp;
+        {% if page.doi %}
+        <a href="{{ page.doi }}"><i class="fas fa-external-link-alt"></i> DOI</a>&nbsp;&nbsp;
+        {% endif %}
+    </p>
+</div>

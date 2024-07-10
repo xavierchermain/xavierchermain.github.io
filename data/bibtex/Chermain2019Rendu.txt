@@ -1,0 +1,6 @@
+@phdthesis{Chermain2019Rendu,
+  title={Rendu bas{\'e} physique de micro-reflets},
+  author={Chermain, Xavier},
+  year={2019},
+  school={Limoges}
+}

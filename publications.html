@@ -1,0 +1,26 @@
+---
+layout: default
+title: Publications
+---
+
+<h1 class="mt-4">Publications</h1>
+
+{% assign publications = site.publications | sort: "id_number" | reverse %}
+{% for pub in publications %}
+<div class="pubitem">
+    <div class="pubteaser">
+        <a href="{{pub.url}}">
+            <img src="{{site.baseurl}}/data/img/{{ pub.id_name }}_small.png" alt="{{pub.slug}} publication teaser" />
+        </a>
+    </div>
+    <div class="pubtitle">{{ pub.title }}</div>
+    <div class="pubauthors">{{ pub.authors }}</div>
+    <div class="pubinfo">{{ pub.journal }}, {{ pub.year}}</div>
+    <div class="publinks">
+        <a href="{{pub.url}}"><i class="fas fa-link"></i> Project Page</a>
+        {% if pub.doi %}&nbsp;&nbsp;
+        <a href="{{ pub.doi }}"><i class="fas fa-external-link-alt"></i> DOI</a>&nbsp;&nbsp;
+        {% endif %}
+    </div>
+</div>
+{% endfor %}

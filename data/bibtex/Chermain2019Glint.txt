@@ -1,0 +1,10 @@
+@article{Chermain2019Glint,
+  author  = {Chermain, Xavier and Claux, Frédéric and Mérillou, Stéphane},
+  title   = {Glint Rendering based on a Multiple-Scattering Patch BRDF},
+  journal = {Computer Graphics Forum (Proceedings of the Eurographics Symposium on Rendering)},
+  volume  = {38},
+  number  = {4},
+  pages   = {27--37},
+  year    = {2019},
+  doi     = {10.1111/cgf.13767}
+}
