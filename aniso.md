@@ -25,11 +25,6 @@ If you are interested in this project and want to exchange about it, do not hesi
 
 - xavier.chermain@inria.fr
 
-# Ph.D. position offer
-
-- Duration: 3 years.
-- More details soon.
-
 # Participants
 
 - [Xavier Chermain](https://xavierchermain.github.io/): Principal Coordinator
