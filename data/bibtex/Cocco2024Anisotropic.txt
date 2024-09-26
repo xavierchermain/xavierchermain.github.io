@@ -1,0 +1,8 @@
+@article{Cocco2024Anisotropic,
+author = {Cocco, Giovanni and Zanni, Cédric, and Chermain, Xavier},
+title = {{Anisotropic Specular Image-Based Lighting Based on BRDF Major Axis Sampling}},
+journal = {Computer Graphics Forum (Proceedings of Pacific Graphics)},
+volume = {43},
+number = {7},
+year = {2024}
+}

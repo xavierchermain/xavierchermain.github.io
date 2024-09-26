@@ -39,6 +39,9 @@ layout: default
         {% if page.code %}
         <a href="{{ page.code }}"><i class="far fa-file-code"></i> Code</a>&nbsp;&nbsp;
         {% endif%}
+        {% if page.visualizer %}
+        <a href="{{ page.visualizer }}"><i class="far fa-file-code"></i> Visualizer </a>&nbsp;&nbsp;
+        {% endif%}
         {% if page.shadertoy %}
         <a href="{{ page.shadertoy }}"><i class="far fa-file-code"></i> Shadertoy</a>&nbsp;&nbsp;
         {% endif%}
