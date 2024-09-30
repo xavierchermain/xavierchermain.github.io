@@ -9,6 +9,7 @@ supplementary_video: https://youtu.be/Z_WuhOlMXBs
 supplementary_document_1: https://drive.google.com/file/d/1YoB62muv_2_43qRE79NEw0AQMOWxNWTv/view?usp=sharing
 code: https://github.com/iota97/AnisotropyEditor
 visualizer: https://github.com/xavierchermain/brdf_major_axis
+shadertoy: https://www.shadertoy.com/view/4fV3W3
 id_name: Cocco2024Anisotropic
 id_number: 8
 ---
