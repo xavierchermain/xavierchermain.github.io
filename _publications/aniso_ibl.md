@@ -11,6 +11,7 @@ code: https://github.com/iota97/AnisotropyEditor
 visualizer: https://github.com/xavierchermain/brdf_major_axis
 shadertoy: https://www.shadertoy.com/view/4fV3W3
 id_name: Cocco2024Anisotropic
+doi: https://doi.org/10.1111/cgf.15233
 id_number: 8
 ---
 {% include math.html %}
