@@ -24,4 +24,4 @@ The glittery model was developed at the [University of Strasbourg](https://www.u
 
 WebGL: [http://igg.unistra.fr/People/reproctex/Demos/Real_Time_Glint/](http://igg.unistra.fr/People/reproctex/Demos/Real_Time_Glint/)
 
-Shadertoy: [https://www.shadertoy.com/view/wstcRH](http://igg.unistra.fr/People/reproctex/Demos/Real_Time_Glint/)
+Shadertoy: [https://www.shadertoy.com/view/wstcRH](https://www.shadertoy.com/view/wstcRH)
