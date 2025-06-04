@@ -13,6 +13,7 @@ shadertoy: https://www.shadertoy.com/view/4fV3W3
 id_name: Cocco2024Anisotropic
 doi: https://doi.org/10.1111/cgf.15233
 replicability: https://www.replicabilitystamp.org/index.html#https-github-com-iota97-anisotropyeditor
+slides: https://drive.google.com/file/d/1BkFt4dmwM6w4N0cFWnANLJLyIAPIdKJC/view?usp=sharing
 id_number: 8
 ---
 {% include math.html %}
