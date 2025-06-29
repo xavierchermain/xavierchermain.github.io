@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: Atomizer - Beyond Non-Planar Slicing for Fused Filament Fabrication
-authors: <b>Xavier Chermain</b>, Giovanni Cocco, <a href="https://members.loria.fr/CZanni/">Cédric Zanni</a>, Éric Garner, Pierre-Alexandre Hugron, and <a href="https://www.antexel.com/sylefeb/research">Sylvain Lefebvre</a>
+authors: <b>Xavier Chermain</b>, <a href="https://github.com/iota97">Giovanni Cocco</a>, <a href="https://members.loria.fr/CZanni/">Cédric Zanni</a>, Eric Garner, Pierre-Alexandre Hugron, and <a href="https://www.antexel.com/sylefeb/research">Sylvain Lefebvre</a>
 journal: Computer Graphics Forum (Proceedings of the Symposium on Geometry Processing)
 year: 2025
 article: https://drive.google.com/file/d/1P4MiYd7Qz1rJdqrq3-CEuzC4vQ2PIMeO/view?usp=sharing
