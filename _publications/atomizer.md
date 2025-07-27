@@ -10,6 +10,8 @@ code: https://github.com/xavierchermain/atomizer
 id_name: Chermain2025Atomizer
 doi: https://doi.org/10.1111/cgf.70189
 id_number: 9
+award: SGP Honorable Mention
+presentation: https://youtu.be/eSx_QZnCSgU?si=AmJYgOVWYTSyOnbN
 ---
 {% include math.html %}
 

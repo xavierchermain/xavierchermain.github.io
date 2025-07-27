@@ -16,6 +16,9 @@ title: Publications
     <div class="pubtitle">{{ pub.title }}</div>
     <div class="pubauthors">{{ pub.authors }}</div>
     <div class="pubinfo">{{ pub.journal }}, {{ pub.year}}</div>
+    {% if pub.award %}
+    <div class="pubinfo"><b>{{ pub.award }}</b></div>
+    {% endif %}
     <div class="publinks">
         <a href="{{pub.url}}"><i class="fas fa-link"></i> Project Page</a>
         {% if pub.doi %}&nbsp;&nbsp;
