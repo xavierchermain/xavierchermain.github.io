@@ -6,6 +6,9 @@ layout: default
     <h1 class="mt-4 publication-title">{{ page.title }}</h1>
     <div class="publication-authors">{{ page.authors }}</div>
     <div class="publication-info">{{ page.journal }}, {{ page.year}}</div>
+    {% if page.award %}
+    <div class="publication-info"><b>{{ page.award }}</b></div>
+    {% endif%}
     <div class="publication-teaser">
         <img src="/data/img/{{ page.id_name }}_big.png" alt="project teaser" />
     </div>
