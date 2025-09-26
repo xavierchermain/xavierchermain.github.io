@@ -1,0 +1,7 @@
+@inproceedings{Cocco2025Towards,
+  author    = {Giovanni Cocco and Eric Garner and Vincent Belle and C{\'e}dric Zanni and Xavier Chermain},
+  title     = {Towards Accessible Non-Planar FFF Using Triple Z-Axis Kinematics},
+  booktitle = {Proceedings of the ACM Symposium on Computational Fabrication},
+  year      = {2025},
+  doi       = {10.1145/3745778.3766652},
+}
