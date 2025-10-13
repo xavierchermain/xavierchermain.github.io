@@ -12,6 +12,7 @@ doi: https://doi.org/10.1111/cgf.70189
 id_number: 9
 award: SGP Honorable Mention
 presentation: https://youtu.be/eSx_QZnCSgU?si=AmJYgOVWYTSyOnbN
+replicability: http://www.replicabilitystamp.org#https-github-com-xavierchermain-atomizer
 ---
 {% include math.html %}
 
