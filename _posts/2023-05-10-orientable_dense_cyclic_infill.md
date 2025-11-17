@@ -3,6 +3,7 @@ layout: post
 title:  "SIGGRAPH Paper on Anisotropic Appearance Fabrication"
 date:   2023-05-10 00:00:00 +0100
 categories: Posts
+published: false
 ---
 
 Our article **Orientable Dense Cyclic Infill for Anisotropic Appearance Fabrication** (with [Cédric Zanni](https://members.loria.fr/CZanni/), [Jonàs Martínez](https://sites.google.com/site/jonasmartinezbayona/), Pierre-Alexandre Hugron, and [Sylvain Lefebvre](https://www.antexel.com/sylefeb/research)) got accepted to SIGGRAPH 2023.

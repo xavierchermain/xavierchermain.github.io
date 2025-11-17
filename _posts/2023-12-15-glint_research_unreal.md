@@ -3,6 +3,7 @@ layout: post
 title:  "My Glint Research in Unreal Engine"
 date:   2023-12-15 00:00:00 +0100
 categories: Posts
+published: false
 ---
 
 The new Substrate Materials in [Unreal Engine](https://www.unrealengine.com) 5.3 allows designers to put glitter on appearance: [https://youtu.be/XpPy5iQ-c6w](https://youtu.be/XpPy5iQ-c6w)
