@@ -9,6 +9,7 @@ supplementary_video: https://youtu.be/A3cuJ4mAvRI
 code: https://xavierchermain.github.io/data/code/Cocco2025Towards.py
 id_name: Cocco2025Towards
 doi: https://doi.org/10.1145/3745778.3766652
+cad: https://github.com/VincentBELLEI/3Zkinematic-Ratcurve
 id_number: 10
 ---
 {% include math.html %}
