@@ -1,0 +1,7 @@
+@article{Cocco2026FieldAlignedSurface,
+  author = {Cocco, Giovanni and Chermain, Xavier},
+  title = {Field-Aligned Surface-Filling Curve via Implicit Stitching},
+  year = {2026},
+  doi = {10.1111/cgf.70361},
+  journal = {Computer Graphics Forum (Proceedings of Eurographics)},
+}

@@ -4,5 +4,6 @@ title = {{Real-Time Geometric Glint Anti-Aliasing with Normal Map Filtering}},
 journal = {{Proceedings of the Symposium on Interactive 3D Graphics and Games (I3D)}},
 volume = {4},
 number = {1},
-year = {2021}
+year = {2021},
+doi = {10.1145/3451257}
 }
