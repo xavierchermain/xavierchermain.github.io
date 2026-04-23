@@ -5,7 +5,7 @@ authors: <b>Xavier Chermain</b>, <a href="http://www.unilim.fr/pages_perso/frede
 journal: The Visual Computer
 year: 2018
 doi: https://doi.org/10.1007/s00371-018-1606-7
-article: https://rdcu.be/baa11
+article: https://hal.science/hal-02157630/
 supplementary_video: https://drive.google.com/file/d/1fs3Y9WlUNfyRhGnf4pIJdtTumhN4XQPm/view?usp=sharing
 code: https://drive.google.com/file/d/1NCz8GUDxhYkRkGnReBxNOZYNaftqE8Sn/view
 id_name: Chermain2018AMicrofacet
