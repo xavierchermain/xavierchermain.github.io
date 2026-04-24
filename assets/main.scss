@@ -53,3 +53,29 @@
 .publication-teaser img {
     border: none;
 }
+
+.social-media-list-inline {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: nowrap;
+}
+
+.social-media-list-inline li {
+  display: inline-flex;
+  padding-top: 0;
+  margin: 0;
+}
+
+.social-media-list-inline li + li {
+  padding-top: 0;
+}
+
+.social-media-list-inline a {
+  display: inline-flex;
+  align-items: center;
+}
+
+.social-media-list-inline .svg-icon {
+  padding-right: 0;
+}
