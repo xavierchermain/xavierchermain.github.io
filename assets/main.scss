@@ -3,6 +3,30 @@
 
 @import "minima";
 
+.post-list-heading {
+  margin-bottom: 0.5rem;
+}
+
+.post-list > li {
+  margin-bottom: 0.35rem;
+}
+
+.post-list .post-meta,
+.post-list h3,
+.post-list .post-link {
+  display: inline;
+  font-size: 1rem;
+  line-height: 1.35;
+}
+
+.post-list .post-meta {
+  margin-right: 0.5rem;
+}
+
+.post-list h3 {
+  margin: 0;
+}
+
 .pubitem {
     margin: 2em 0;
     line-height: 1em;
