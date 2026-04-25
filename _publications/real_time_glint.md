@@ -20,17 +20,12 @@ id_number: 4
 
 ## Abstract
 
-We present a method to 3D print surfaces exhibiting a prescribed varying field
-of anisotropic appearance using only standard fused filament fabrication
-printers. This enables the fabrication of patterns triggering reflections
-similar to that of brushed metal with direct control over the directionality of
-the reflections. Our key insight, on which we ground the method, is that the
-direction of the deposition paths leads to a certain degree of surface
-roughness, which yields a visual anisotropic appearance. Therefore, generating
-dense cyclic infills aligned with a line field allows us to grade the
-anisotropic appearance of the printed surface. To achieve this, we introduce a
-highly parallelizable algorithm for optimizing oriented, cyclic paths. Our
-algorithm outperforms existing approaches regarding efficiency, robustness, and
-result quality. We demonstrate the effectiveness of our technique in conveying
-an anisotropic appearance on several challenging test cases, ranging from
-patterns to photographs reinterpreted as anisotropic appearances.
+Physically based rendering of glittering surfaces is a challenging problem in computer graphics. Several methods have proposed
+off-line solutions, but none is dedicated to high-performance graphics. In this work, we propose a novel physically based BRDF
+for real-time rendering of glints. Our model can reproduce the appearance of sparkling materials (rocks, rough plastics, glitter
+fabrics, etc.). Compared to the previous real-time method, which is not physically based, our BRDF uses normalized
+NDFs and converges to the standard microfacet BRDF for a large number of microfacets. Our method procedurally
+computes NDFs with hundreds of sharp lobes. It relies on a dictionary of 1D marginal distributions: at each location two of
+them are randomly picked and multiplied (to obtain a NDF), rotated (to increase the variety), and scaled (to control standard
+deviation/roughness). The dictionary is multiscale, does not depend on roughness, and has a low memory footprint (less than
+1 MiB).
