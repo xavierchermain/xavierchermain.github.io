@@ -1,0 +1,10 @@
+@article{Cocco2026AtomSlicer,
+  author = {Cocco, Giovanni and Belle, Vincent and Garner, Eric and Lefebvre, Sylvain and Chermain, Xavier},
+  title = {AtomSlicer: Constant-Thickness Field-Aligned Non-Planar Slicing and Continuous Toolpaths for FFF},
+  year = {2026},
+  doi = {10.1145/3811363},
+  journal = {ACM Transactions on Graphics (Proceedings of SIGGRAPH)},
+  volume = {45},
+  number = {4},
+  articleno = {58},
+}
