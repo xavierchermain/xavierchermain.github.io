@@ -4,7 +4,7 @@ title:  "SGP'26 Article: Volume-Filling Curve"
 date:   2026-06-12 00:00:00 +0100
 categories: Posts
 ---
-![Teaser Volume-Filling Curve Paper]({{site.baseurl}}/data/img/Cocco2026wave_big.png)
+![Teaser Volume-Filling Curve Paper]({{site.baseurl}}/data/img/Cocco2026Wave_big.png)
 
 **Wave-Guided Field-Aligned Volume-Filling Curves Will Be Presented at [SGP 2026](https://sgp26.org/)**
 
