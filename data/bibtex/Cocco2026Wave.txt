@@ -2,5 +2,6 @@
 author = {Cocco, Giovanni and Chermain, Xavier},
 title = {Wave-Guided Field-Aligned Volume-Filling Curves},
 journal = {Computer Graphics Forum (Proceedings of the Symposium on Geometry Processing)},
-year = {2026}
+year = {2026},
+doi = {10.1111/cgf.70512}
 }
