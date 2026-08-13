@@ -6,6 +6,7 @@ journal: Proceedings of the ACM Symposium on Computational Fabrication
 year: 2025
 article: https://xavierchermain.github.io/data/pdf/Cocco2025Towards.pdf
 supplementary_video: https://youtu.be/A3cuJ4mAvRI
+presentation: https://youtu.be/i2V4dj8i2HI
 code: https://xavierchermain.github.io/data/code/Cocco2025Towards.py
 id_name: Cocco2025Towards
 doi: https://doi.org/10.1145/3745778.3766652

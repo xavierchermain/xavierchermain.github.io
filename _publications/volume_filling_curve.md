@@ -7,7 +7,6 @@ year: 2026
 article: https://drive.google.com/file/d/1JBiY003G_58wd__hLbhH3NbZ-1tUVex0/view?usp=sharing
 supplementary_document_1: https://drive.google.com/file/d/1xewpo4Xv6HPFIkqE5hKm9QOkosWvz1J8/view?usp=sharing
 supplementary_video: https://youtu.be/XH03-9Jdeo0
-presentation: https://youtu.be/i2V4dj8i2HI
 code: https://github.com/iota97/Volume-Filling-Curve
 id_name: Cocco2026Wave
 doi: http://doi.org/10.1111/cgf.70512
