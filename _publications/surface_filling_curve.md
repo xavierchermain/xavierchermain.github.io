@@ -11,6 +11,9 @@ code: https://github.com/iota97/Surface-Filling-Curve
 id_name: Cocco2026FieldAlignedSurface
 doi: https://doi.org/10.1111/cgf.70361
 id_number: 11
+aniso: true
+aniso_summary: "Generates robust and scalable field-aligned surface-filling curves through implicit stitching, with validation on Thingi10K."
+replicability: https://www.replicabilitystamp.org/index.html#https-github-com-iota97-surface-filling-curve
 ---
 {% include math.html %}
 

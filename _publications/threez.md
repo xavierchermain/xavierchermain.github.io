@@ -12,6 +12,8 @@ id_name: Cocco2025Towards
 doi: https://doi.org/10.1145/3745778.3766652
 cad: https://github.com/VincentBELLEI/3Zkinematic-Ratcurve
 id_number: 10
+aniso: true
+aniso_summary: "Makes non-planar FFF more accessible through a desktop-printer architecture with three independently actuated Z axes and open-source kinematics."
 ---
 {% include math.html %}
 

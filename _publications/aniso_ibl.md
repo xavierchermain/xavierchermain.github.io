@@ -15,6 +15,8 @@ doi: https://doi.org/10.1111/cgf.15233
 replicability: https://www.replicabilitystamp.org/index.html#https-github-com-iota97-anisotropyeditor
 slides: https://drive.google.com/file/d/1BkFt4dmwM6w4N0cFWnANLJLyIAPIdKJC/view?usp=sharing
 id_number: 8
+aniso: true
+aniso_summary: "Provides real-time image-based lighting for anisotropic specular materials, improving reflection realism over bent normals through BRDF major-axis sampling."
 ---
 {% include math.html %}
 

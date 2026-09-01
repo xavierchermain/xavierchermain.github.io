@@ -11,6 +11,8 @@ code: https://github.com/iota97/AtomSlicer
 id_name: Cocco2026AtomSlicer
 doi: https://doi.org/10.1145/3811363
 id_number: 12
+aniso: true
+aniso_summary: "Generates near-constant-thickness field-aligned non-planar layers and continuous collision-free toolpaths, validated on 13 printed models."
 ---
 
 ## Abstract

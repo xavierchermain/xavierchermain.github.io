@@ -13,6 +13,8 @@ id_number: 9
 award: SGP Honorable Mention
 presentation: https://youtu.be/eSx_QZnCSgU?si=AmJYgOVWYTSyOnbN
 replicability: http://www.replicabilitystamp.org#https-github-com-xavierchermain-atomizer
+aniso: true
+aniso_summary: "Moves beyond layer-based slicing using oriented volumetric “atoms” to generate flexible, collision-free FFF toolpaths, including anisotropic appearance fabrication on curved surfaces."
 ---
 {% include math.html %}
 

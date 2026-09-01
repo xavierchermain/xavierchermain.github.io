@@ -11,6 +11,9 @@ code: https://github.com/iota97/Volume-Filling-Curve
 id_name: Cocco2026Wave
 doi: http://doi.org/10.1111/cgf.70512
 id_number: 13
+aniso: true
+aniso_summary: "Constructs well-spaced field-aligned volume-filling curves at scale, including outputs with more than 10 million vertices and validation on 4,398 solids."
+presentation: https://youtu.be/rggSF3hkbU8?si=YfaSmQuvbtSp3lXr
 ---
 {% include math.html %}
 
