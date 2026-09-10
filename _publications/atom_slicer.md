@@ -13,6 +13,7 @@ doi: https://doi.org/10.1145/3811363
 id_number: 12
 aniso: true
 aniso_summary: "Generates near-constant-thickness field-aligned non-planar layers and continuous collision-free toolpaths, validated on 13 printed models."
+replicability: https://www.replicabilitystamp.org/index.html#https-github-com-iota97-atomslicer
 ---
 
 ## Abstract
