@@ -14,6 +14,7 @@ id_number: 13
 aniso: true
 aniso_summary: "Constructs well-spaced field-aligned volume-filling curves at scale, including outputs with more than 10 million vertices and validation on 4,398 solids."
 presentation: https://youtu.be/rggSF3hkbU8?si=YfaSmQuvbtSp3lXr
+replicability: https://www.replicabilitystamp.org/index.html#https-github-com-iota97-volume-filling-curve
 ---
 {% include math.html %}
 

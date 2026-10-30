@@ -8,6 +8,7 @@ article: https://drive.google.com/file/d/1pyoNb_oZMt0jiCMNW1M6_K9OF46vOif2/view?
 supplementary_document_1: https://drive.google.com/file/d/1QtaMKUJvQeGQpCDTNnC9gETSy4kmSVgX/view?usp=sharing
 supplementary_video: https://youtu.be/jU7nQ7Nd51A
 code: https://github.com/iota97/AtomSlicer
+webdemo: https://slicer.iota97.workers.dev/
 id_name: Cocco2026AtomSlicer
 doi: https://doi.org/10.1145/3811363
 id_number: 12

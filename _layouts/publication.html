@@ -42,6 +42,9 @@ layout: default
         {% if page.code %}
         <a href="{{ page.code }}"><i class="far fa-file-code"></i> Code</a>&nbsp;&nbsp;
         {% endif%}
+        {% if page.webdemo %}
+        <a href="{{ page.webdemo }}"><i class="fa-regular fa-window-maximize"></i> Web demo</a>&nbsp;&nbsp;
+        {% endif%}
         {% if page.visualizer %}
         <a href="{{ page.visualizer }}"><i class="far fa-file-code"></i> Visualizer </a>&nbsp;&nbsp;
         {% endif%}
